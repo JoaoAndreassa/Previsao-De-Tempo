@@ -33,10 +33,5 @@ form?.addEventListener("submit", async(event) => {
     
     `
 
-    // const newLocal = document.createElement("h2")
-    // newLocal.textContent = infos.local
-
-    // const newTemp = document.createElement("span")
     
-    // newTemp = infos.temperatura
 })
